@@ -24,7 +24,7 @@ window.onload = () => {
   })
 }
 
-let messageSender = 'Sonu'
+let messageSender = 'monuuuuuuu'
 
 const updateMessageSender = (name) => {
   messageSender = name
